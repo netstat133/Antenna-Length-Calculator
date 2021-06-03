@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Ant\Ant\bin\Release\Ant.exe.config
+C:\Users\USER\source\repos\Ant\Ant\bin\Release\Ant.exe
+C:\Users\USER\source\repos\Ant\Ant\bin\Release\Ant.pdb
+C:\Users\USER\source\repos\Ant\Ant\obj\Release\Ant.Form1.resources
+C:\Users\USER\source\repos\Ant\Ant\obj\Release\Ant.Properties.Resources.resources
+C:\Users\USER\source\repos\Ant\Ant\obj\Release\Ant.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Ant\Ant\obj\Release\Ant.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Ant\Ant\obj\Release\Ant.exe
+C:\Users\USER\source\repos\Ant\Ant\obj\Release\Ant.pdb
+C:\Users\USER\source\repos\Ant\Ant\obj\Release\Ant.csprojAssemblyReference.cache
